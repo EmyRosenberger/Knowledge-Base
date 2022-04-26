@@ -52,3 +52,5 @@ git config --global user.email max@mustermann.de
 Passe deine Nutzerinformationen an
 
 git checkout -- dateiname
+
+Nathan ist ein Pupsgesicht
