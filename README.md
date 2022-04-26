@@ -36,3 +36,7 @@ Den Branch wechseln (hier zum Branch master)
 git push origin feature
 Pusht den Branch feature auf das Repository origin
 
+git merge origin/master
+Führt Änderungen mit dem Branch master zusammen
+
+
