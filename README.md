@@ -39,4 +39,7 @@ Pusht den Branch feature auf das Repository origin
 git merge origin/master
 Führt Änderungen mit dem Branch master zusammen
 
+git pull origin master
+Kann auch in einem Befehl ausgeführt werden
+
 
