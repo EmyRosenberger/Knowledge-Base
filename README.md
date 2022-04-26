@@ -45,3 +45,8 @@ Kann auch in einem Befehl ausgeführt werden
 git merge feature
 Der Branch feature wird mit dem aktuellen Branch zusammengeführt
 
+git config --global user.name "Max Mustermann"
+
+git config --global user.email max@mustermann.de
+
+Passe deine Nutzerinformationen an
