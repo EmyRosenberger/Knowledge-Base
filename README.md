@@ -42,4 +42,6 @@ Führt Änderungen mit dem Branch master zusammen
 git pull origin master
 Kann auch in einem Befehl ausgeführt werden
 
+git merge feature
+Der Branch feature wird mit dem aktuellen Branch zusammengeführt
 
