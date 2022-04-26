@@ -50,3 +50,5 @@ git config --global user.name "Max Mustermann"
 git config --global user.email max@mustermann.de
 
 Passe deine Nutzerinformationen an
+
+git checkout -- dateiname
